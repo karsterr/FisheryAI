@@ -1,0 +1,10 @@
+# FisheryAI - Python Dependencies
+#
+# Full TensorFlow (includes TFLite):
+#   pip install tensorflow numpy
+#
+# Lightweight alternative (TFLite runtime only):
+#   pip install tflite-runtime numpy
+
+numpy>=1.23.0
+tensorflow>=2.13.0

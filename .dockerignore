@@ -1,0 +1,10 @@
+.git
+.fleet
+.opencode
+__pycache__
+*.pyc
+*.pyo
+*.png
+*.ipynb
+venv/
+.env
